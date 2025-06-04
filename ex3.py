@@ -1,8 +1,8 @@
+s={22,25,14,21,5}
+
+print(s)
 
 
-#3.reverse
+s1={22,20,14,22,5}
 
-fruits=['orange','apple','pear','banana','kiwi','apple','banana']
-
-print(fruits.reverse())
-print(fruits)
+print(s1)  #duplication not allowed

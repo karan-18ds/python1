@@ -1,17 +1,4 @@
-#list
+tuple =(21,22,34,45)
+print(tuple)
 
-#1.count
-fruits=['orange','apple','pear','banana','kiwi','apple','banana']
-
-print(fruits.count('apple'))
-print(fruits.count('tangerine'))
-
-
-
-
-#5.sort
-print(fruits.sort())
-print(fruits)
-
-#pop
-
+print(tuple.count(21))

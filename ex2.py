@@ -1,6 +1,4 @@
-#2.index
-fruits=['orange','apple','pear','banana','kiwi','apple','banana']
+tuple =(21,22,34,45)
+print(tuple)
 
-print(fruits.index('banana'))
-
-print(fruits.index('banana',4))   #Find next banana starting at position 4
+print(tuple.index(34))

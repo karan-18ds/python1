@@ -1,6 +1,7 @@
+s={22,25,14,21,5}
 
-#4.append (add to last )
+s.add(10)
+print(s)
 
-fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
-print(fruits.append('grape'))
-print(fruits)
+s.update([34,89])
+print(s)
