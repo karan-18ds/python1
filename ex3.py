@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #sequence
 
 #1.list
@@ -33,3 +34,13 @@ print(list(range(2,8,2)))
 
 
 
+=======
+s={22,25,14,21,5}
+
+print(s)
+
+
+s1={22,20,14,22,5}
+
+print(s1)  #duplication not allowed
+>>>>>>> f177397fc70995dfa7990b4f0fb9d78ce1596e43
